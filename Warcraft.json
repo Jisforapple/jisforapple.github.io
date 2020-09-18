@@ -11,7 +11,7 @@
     ],
 
     "template": [
-        "@type @sex @race that is @class who @does"
+        "@type @sex @race @class who @does"
 ],
 
     "type": [
